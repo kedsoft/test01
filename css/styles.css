@@ -36,7 +36,7 @@
   --bs-primary: #ffc800;
 
   /* added this */
-  --bs-primary: #c80000;
+  --bs-primary: #942a4e;
 
   --bs-secondary: #6c757d;
   --bs-success: #198754;
@@ -48,7 +48,7 @@
   --bs-primary-rgb: 255, 200, 0;
 
   /* added this */
-  --bs-primary-rgb: 200, 0, 0;
+  --bs-primary-rgb: 142, 42, 87;
 
   
   --bs-secondary-rgb: 108, 117, 125;
@@ -11456,7 +11456,7 @@ header.masthead .masthead-heading {
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
   }
 }
 #portfolio .portfolio-item {
